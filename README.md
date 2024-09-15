@@ -6,8 +6,6 @@ Berikut ini merupakan hasil Backend Test dari PT. Eigen Tri Mathema
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [API Endpoints](#api-endpoints)
 
 ## Authors
 Muhammad Afif Mu'tashim (mafif357@gmail.com)
