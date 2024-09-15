@@ -10,7 +10,6 @@ function findLongestWord(sentence) {
             longestWord = word;
         }
     }
-
     return longestWord;
 }
 
